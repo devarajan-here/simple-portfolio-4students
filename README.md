@@ -1,6 +1,4 @@
 # simple-portfolio-4students
-Project Name
-Simple portfolio for students
 
 Description
 its a simple portfolio and amazing design
