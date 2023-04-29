@@ -1,4 +1,5 @@
-# Project name simple-portfolio-4students
+# Project name 
+simple-portfolio-4students
 
 # Description
 its a simple portfolio and amazing design
